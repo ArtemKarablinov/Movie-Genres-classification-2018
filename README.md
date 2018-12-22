@@ -7,4 +7,5 @@ MLP classifiers </br>
 Fasttext categorical encoders</br>
 RNN classifiers</br>
 Sentiment score (based on NLTK movie review dataset)</br>
-Other features</br>
+Other features</br></br>
+Plus web-service for demonstaration
